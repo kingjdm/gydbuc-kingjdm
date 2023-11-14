@@ -5,7 +5,7 @@ Welcome to the pre-con session on Git Your Database Under Control! Please fill o
 ## Personal Information (Optional)
 - **Name**: Jim
 - **What do you do in your work**: Database Dev, DBA, ETLs  
-- **Experience with Version Control**: SVN; Git
+- **Experience with Version Control**: Intermediate user of source control
 
 ## Pre-Session Knowledge
 1. **What do you already know about Version Control Systems (VCS)?**
