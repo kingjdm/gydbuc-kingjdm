@@ -3,9 +3,9 @@
 Welcome to the pre-con session on Git Your Database Under Control! Please fill out this survey to help us understand your background and expectations. Once you're done, commit your changes and create a pull request to submit your responses..
 
 ## Personal Information (Optional)
-- **Name**: 
-- **What do you do in your work**: 
-- **Experience with Version Control**: 
+- **Name**: Jim
+- **What do you do in your work**: Database Dev, DBA, ETLs  
+- **Experience with Version Control**: SVN; Git
 
 ## Pre-Session Knowledge
 1. **What do you already know about Version Control Systems (VCS)?**
@@ -13,32 +13,32 @@ Welcome to the pre-con session on Git Your Database Under Control! Please fill o
    - [ ] I've heard of it but never used it
    - [ ] Basic understanding of VCS concepts
    - [ ] Comfortable using VCS
-   - [ ] I use VCS regularly
+   - [x] I use VCS regularly
 
 2. **Which Version Control Systems are you familiar with? (Please check all that apply)**
-   - [ ] Git
-   - [ ] Subversion (SVN)
+   - [x] Git
+   - [x] Subversion (SVN)
    - [ ] Mercurial
    - [ ] Team Foundation Version Control (TFVC)
    - [ ] Other: 
 
 3. **Have you ever used GitHub or any other remote repository hosting service?**
-   - [ ] Yes
+   - [x] Yes
    - [ ] No
 
 ## Expectations from the Session
 **What are you hoping to learn today?** (Please write a brief description)
 
-- 
+- Learn more about how to best version database code and schema. Then how the pipeline works between source control and deploying to production 
 
 ## Experience with Collaboration
 1. **Have you contributed to any open-source projects?**
-   - [ ] Yes
+   - [x] Yes
    - [ ] No
 
 2. **If yes, which ones and in what way?** (If you haven't, just write N/A)
 
-- N/A
+- Once I committed a fix to Phoronix test suite
 
 ## Post-Session Action Items
 **After today's session, what are the top things you plan to explore further or apply in your work?**
